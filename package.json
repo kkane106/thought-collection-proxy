@@ -1,0 +1,31 @@
+{
+  "name": "thought-collection-proxy",
+  "version": "1.0.0",
+  "description": "A potential remake of my blog",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kkane106/thought-collection-proxy.git"
+  },
+  "keywords": [
+    "developer",
+    "development",
+    "ruby",
+    "js",
+    "javascript",
+    "java",
+    "swift",
+    "ios",
+    "rails",
+    "sql"
+  ],
+  "author": "kkane106",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkane106/thought-collection-proxy/issues"
+  },
+  "homepage": "https://github.com/kkane106/thought-collection-proxy#readme"
+}
