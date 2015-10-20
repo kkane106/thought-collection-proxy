@@ -27,5 +27,9 @@
   "bugs": {
     "url": "https://github.com/kkane106/thought-collection-proxy/issues"
   },
-  "homepage": "https://github.com/kkane106/thought-collection-proxy#readme"
+  "homepage": "https://github.com/kkane106/thought-collection-proxy#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^2.0.1"
+  }
 }
