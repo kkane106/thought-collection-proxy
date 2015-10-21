@@ -1,0 +1,194 @@
+{
+  "basics": {
+    "name": "Kris Kane",
+    "label": "Web Developer",
+    "picture": "https://avatars1.githubusercontent.com/u/7424607?v=3&s=460",
+    "email": "kkane106@gmail.com",
+    "phone": "(720) 323-6505",
+    "website": "kkane106.github.io",
+    "summary": "A summary of John Doe...",
+    "location": {
+      "address": "4000 E 3rd Ave",
+      "postalCode": "CO 80220",
+      "city": "Denver",
+      "countryCode": "US",
+      "region": "Colorado"
+    },
+    "profiles": [
+      {
+      "network": "github",
+      "username": "kkane106",
+      "url": "https://github.com/kkane106"
+      },
+      {
+      "network": "Twitter",
+      "username": "kcitizenkane",
+      "url": "http://twitter.com/kcitizenkane"
+    },
+      {
+      "network": "Linkedin",
+      "username": "Kris Kane",
+      "url": "https://www.linkedin.com/pub/kristopher-kane/31/883/bb7"
+      }]
+  },
+  "work": [{
+    "company": "Justice at Stake",
+    "position": "Executive / Program Assistant",
+    "website": "http://www.justiceatstake.org/",
+    "startDate": "2013-03-01",
+    "endDate": "2014-08-21",
+    "summary": "Jack of all trades, onsite IT, schedule meetings for Executive Director, Assistant Executive Director and Executive Director of Development",
+    "highlights": [
+      "Implemented Salsa eCRM to manage over 10,000 contact, 1000 donor, and 20,000 supporter records"
+      "Built and maintained donation pages for the development team"
+      "Created custom newsletter templates for communications team"
+    ]
+  },
+  {
+    "company": "Trak Employment Services",
+    "position": "Associate",
+    "website": "http://www.trakcompanies.com/",
+    "startDate": "2012-09-14",
+    "endDate": "2013-03-01",
+    "summary": "Description...",
+    "highlights": [
+      "Implemented Salsa eCRM to manage over 10,000 contact, 1000 donor, and 20,000 supporter records"
+      "Built and maintained donation pages for the development team"
+      "Created custom newsletter templates for communications team"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Turing School",
+    "position": "Mentor",
+    "website": "http://turing.io/",
+    "startDate": "2015-10-01",
+    "endDate": "2015-12-31",
+    "summary": "Pair program with Turing students to assist them on their projects",
+    "highlights": [
+      "Helped a student prepare for a Java interview by coaching her on Java syntax as it relates to her knowledge of JS"
+    ]
+  }],
+  "education": [{
+    "institution": "Skill Distillery",
+    "area": "Web Development",
+    "studyType": "Bootcamp",
+    "startDate": "2015-09-14",
+    "endDate": "2016-02-07",
+    "gpa": "0.0",
+    "courses": [
+      "Java",
+      "Spring MVC",
+      "jQuery",
+      "MEAN"
+    ]
+  },
+  {
+    "institution": "General Assembly",
+    "area": "iOS Development",
+    "studyType": "Night Classes",
+    "startDate": "2015-05-21",
+    "endDate": "2016-08-14",
+    "gpa": "0.0",
+    "courses": [
+      "iOS",
+      "XCode",
+      "Interface Builder",
+      "Swift"
+    ]
+  },
+  {
+    "institution": "Dev Bootcamp",
+    "area": "Web Development",
+    "studyType": "Bootcamp",
+    "startDate": "2014-06-14",
+    "endDate": "2014-11-14",
+    "gpa": "0.0",
+    "courses": [
+      "Rails",
+      "Ruby",
+      "Javascript",
+      "HTML/CSS"
+    ]
+  },
+  {
+    "institution": "Bates College",
+    "area": "Political Science",
+    "studyType": "College",
+    "startDate": "2005-09-07",
+    "endDate": "2009-05-28",
+    "gpa": "3.5",
+    "courses": [
+      "International Political Economy",
+      "Economics",
+      "International Dispute Resolution",
+      "Chemistry"
+    ]
+  }],
+  "awards": [{
+    "title": "Java SE 7 Programmer 1",
+    "date": "2015-10-16",
+    "awarder": "Oracle",
+    "summary": "There is no spoon."
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "website": "http://publication.com",
+    "summary": "Description..."
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Intermediate",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "SQLite3",
+      "jQuery",
+      "Bootstrap",
+      "Java"
+    ]
+  },
+  {
+    "name": "Testing",
+    "level": "Intermediate",
+    "keywords": [
+      "RSpec",
+      "Minitest",
+      "Capybara",
+      "jUnit",
+      "Mocha",
+      "Chai",
+      "Karma"
+    ]
+  },
+  {
+    "name": "Mobile Development",
+    "level": "Beginner",
+    "keywords": [
+      "iOS",
+      "Swift",
+      "XCode",
+      "Interface Builder"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference..."
+  }]
+}
